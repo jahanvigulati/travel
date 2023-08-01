@@ -195,7 +195,7 @@ section .cards .card {
 }
 
 .portfolio .cards .card {
-  padding: 0 0 20px;
+paddin  g: 0 0 20px;
 }
 
 .services .card img {
@@ -371,9 +371,3 @@ footer a {
   }
 }
 
-@media screen and (max-width: 560px) {
-  section .cards .card {
-    width: 100%;
-    margin-bottom: 30px;
-  }
-}
